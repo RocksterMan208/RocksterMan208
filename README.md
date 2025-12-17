@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
+<br> My name is **Ashton** and I am a fairly new programmer. <br>
+(He/Him)
+##
+### The languages I am learning:
+- C++ (currently making a project in C++)
+- Python
+- Dabbled in AutoHotkey coding for automation.
+  <br><br>
 
-<!--
-**RocksterMan208/RocksterMan208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here is my hackatime stats and you can see the time I have spent coding in each language.
 
-Here are some ideas to get you started:
+![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=23648&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent "@time")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
