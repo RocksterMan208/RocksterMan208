@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<br> My name is **Ashton** and I am a fairly new programmer. <br>
+<br> My name is **Ashton** and I am a hobby programmer. I dont expect much from my own code. <br>
 (He/Him)
 
 ##
