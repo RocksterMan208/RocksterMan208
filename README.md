@@ -15,9 +15,7 @@
 
 ### Why do I code?
 
-I code as a hobby, I find it fun to code as it just harbours the logical creativity which I dont exactly excel at in a presentable way. My own lack of talent makes each
-success feel fantastic and ups my own self-esteem knowing I improved on something which may be seen as compilcated to other non-coders.
-
+Coding is a hobby to me and it allows me to put my thoughts into something tangible that I can interact with. It's just gratifying knowing what I code comes out usable by me and other people.
 ##
 
 ### Here is my hackatime stats and you can see the time I have spent coding in each language.
