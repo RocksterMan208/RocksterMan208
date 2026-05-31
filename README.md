@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<br> My name is **Ashton** and I am a hobby programmer. I dont expect much from my own code. <br>
+<br> My name is **Ashton** and I am a hobby programmer. If the code works, dont question it. <br>
 (He/Him)
 
 ##
@@ -15,7 +15,7 @@
 
 ### Why do I code?
 
-Coding is a hobby to me and it allows me to put my thoughts into something tangible that I can interact with. It's just gratifying knowing what I code comes out usable by me and other people.
+When I have the motivation, coding allows me to put my thoughts onto a screen, its fun when it all works obviously and its stressful when it doesnt, I'm a bit of a masochist sometimes and I enjoy this struggle.
 ##
 
 ### Here is my hackatime stats and you can see the time I have spent coding in each language.
