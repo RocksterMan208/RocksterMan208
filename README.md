@@ -1,15 +1,17 @@
 # Hi there 👋
 
-<br> My name is **Ashton** and I am a hobby programmer. If the code works, dont question it. <br>
+<br> My name is **Ashton** and I am a hobby programmer. If the code works, dont question it. </br>
 (He/Him)
 
 ##
 
 ### The languages I am learning:
-- C++ (currently making a project in C++)
+- C++
+- HTML
+- CSS
+- Open GL Shader Language
 - Python
 - Dabbled in AutoHotkey coding for automation.
-  <br><br>
 
 ##
 
