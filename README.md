@@ -5,7 +5,7 @@
 
 ##
 
-### The languages I am learning:
+### The languages I am learning/learnt:
 - C++
 - HTML
 - CSS
